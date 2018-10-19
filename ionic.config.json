@@ -1,0 +1,7 @@
+{
+  "name": "DxLabs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
